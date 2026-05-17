@@ -6,3 +6,4 @@
 - clean up naming
 - simplify naming
 - rework config handling
+- fix validation
