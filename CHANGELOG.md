@@ -5,3 +5,4 @@
 - fix error handling
 - clean up naming
 - simplify naming
+- rework config handling
