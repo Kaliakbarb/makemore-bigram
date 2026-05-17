@@ -7,3 +7,4 @@
 - simplify naming
 - rework config handling
 - fix validation
+- tweak naming
