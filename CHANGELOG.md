@@ -8,3 +8,4 @@
 - rework config handling
 - fix validation
 - tweak naming
+- improve state handling
