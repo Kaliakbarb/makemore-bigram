@@ -7,3 +7,4 @@
 - [ ] support a config file
 - [ ] package it properly
 - [ ] performance pass
+- [ ] keyboard shortcuts
