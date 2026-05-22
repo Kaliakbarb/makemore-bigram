@@ -11,3 +11,4 @@
 - improve state handling
 - adjust output formatting
 - adjust naming
+- adjust help text
