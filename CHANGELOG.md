@@ -15,3 +15,4 @@
 - clean up config handling
 - polish help text
 - polish startup flow
+- fix docs wording
