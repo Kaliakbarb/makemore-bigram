@@ -9,3 +9,4 @@
 - fix validation
 - tweak naming
 - improve state handling
+- adjust output formatting
