@@ -12,3 +12,4 @@
 - adjust output formatting
 - adjust naming
 - adjust help text
+- clean up config handling
