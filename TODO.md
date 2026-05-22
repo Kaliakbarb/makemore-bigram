@@ -10,3 +10,4 @@
 - [ ] keyboard shortcuts
 - [ ] refactor into modules
 - [ ] better error messages
+- [ ] dark mode
