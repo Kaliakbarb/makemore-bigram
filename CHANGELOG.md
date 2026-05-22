@@ -10,3 +10,4 @@
 - tweak naming
 - improve state handling
 - adjust output formatting
+- adjust naming
