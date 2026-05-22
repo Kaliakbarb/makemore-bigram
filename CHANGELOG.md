@@ -14,3 +14,4 @@
 - adjust help text
 - clean up config handling
 - polish help text
+- polish startup flow
