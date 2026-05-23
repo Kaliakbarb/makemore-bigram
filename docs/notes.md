@@ -8,3 +8,4 @@
 - renamed things until the code read like a sentence
 - wrote down ideas from a blog post I read today
 - should test this on windows at some point
+- tried an alternative layout, kept the simple one
