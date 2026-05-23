@@ -16,3 +16,4 @@
 - polish help text
 - polish startup flow
 - fix docs wording
+- refine validation
