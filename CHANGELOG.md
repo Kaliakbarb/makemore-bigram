@@ -17,3 +17,4 @@
 - polish startup flow
 - fix docs wording
 - refine validation
+- clean up docs wording
