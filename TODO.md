@@ -11,3 +11,4 @@
 - [ ] refactor into modules
 - [ ] better error messages
 - [ ] dark mode
+- [ ] publish a small demo
