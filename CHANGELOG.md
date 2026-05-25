@@ -26,3 +26,4 @@
 - tighten config handling
 - tweak validation
 - adjust state handling
+- rework validation
