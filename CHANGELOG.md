@@ -25,3 +25,4 @@
 - simplify main loop
 - tighten config handling
 - tweak validation
+- adjust state handling
