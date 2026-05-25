@@ -21,3 +21,4 @@
 - tighten output formatting
 - refine edge case handling
 - rework startup flow
+- polish docs wording
