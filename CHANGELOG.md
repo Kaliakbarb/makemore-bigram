@@ -24,3 +24,4 @@
 - polish docs wording
 - simplify main loop
 - tighten config handling
+- tweak validation
