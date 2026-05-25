@@ -27,3 +27,4 @@
 - tweak validation
 - adjust state handling
 - rework validation
+- tighten state handling
