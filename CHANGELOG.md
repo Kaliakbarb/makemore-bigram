@@ -23,3 +23,4 @@
 - rework startup flow
 - polish docs wording
 - simplify main loop
+- tighten config handling
