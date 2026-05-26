@@ -28,3 +28,4 @@
 - adjust state handling
 - rework validation
 - tighten state handling
+- rework error handling
