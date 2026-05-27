@@ -29,3 +29,4 @@
 - rework validation
 - tighten state handling
 - rework error handling
+- simplify validation
