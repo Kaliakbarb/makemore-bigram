@@ -33,3 +33,4 @@
 - tweak main loop
 - tighten main loop
 - fix naming
+- improve input parsing
