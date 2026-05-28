@@ -32,3 +32,4 @@
 - simplify validation
 - tweak main loop
 - tighten main loop
+- fix naming
