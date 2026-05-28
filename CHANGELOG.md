@@ -35,3 +35,4 @@
 - fix naming
 - improve input parsing
 - tighten input parsing
+- simplify input parsing
