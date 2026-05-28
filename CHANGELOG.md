@@ -34,3 +34,4 @@
 - tighten main loop
 - fix naming
 - improve input parsing
+- tighten input parsing
