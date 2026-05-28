@@ -30,3 +30,4 @@
 - tighten state handling
 - rework error handling
 - simplify validation
+- tweak main loop
