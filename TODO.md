@@ -18,3 +18,4 @@
 - [ ] handle unicode input
 - [ ] add screenshots to the readme
 - [ ] add colors to output
+- [ ] support a config file
