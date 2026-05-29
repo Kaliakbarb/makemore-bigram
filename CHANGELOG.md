@@ -39,3 +39,4 @@
 - tweak output formatting
 - tighten validation
 - improve naming
+- polish output formatting
