@@ -38,3 +38,4 @@
 - simplify input parsing
 - tweak output formatting
 - tighten validation
+- improve naming
