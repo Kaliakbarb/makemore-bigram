@@ -17,3 +17,4 @@
 - edge case: empty input used to crash, fixed
 - renamed things until the code read like a sentence
 - wrote down ideas from a blog post I read today
+- should test this on windows at some point
