@@ -15,3 +15,4 @@
 - profiled the slow path, most of the time is IO
 - removed dead code left from the prototype
 - edge case: empty input used to crash, fixed
+- renamed things until the code read like a sentence
