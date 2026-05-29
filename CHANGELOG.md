@@ -36,3 +36,4 @@
 - improve input parsing
 - tighten input parsing
 - simplify input parsing
+- tweak output formatting
