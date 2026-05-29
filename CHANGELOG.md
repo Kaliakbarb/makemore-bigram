@@ -40,3 +40,4 @@
 - tighten validation
 - improve naming
 - polish output formatting
+- adjust edge case handling
