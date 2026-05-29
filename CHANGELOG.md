@@ -37,3 +37,4 @@
 - tighten input parsing
 - simplify input parsing
 - tweak output formatting
+- tighten validation
