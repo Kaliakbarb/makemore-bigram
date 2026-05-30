@@ -43,3 +43,4 @@
 - adjust edge case handling
 - refine error handling
 - improve error handling
+- refine help text
