@@ -44,3 +44,4 @@
 - refine error handling
 - improve error handling
 - refine help text
+- simplify config handling
