@@ -22,3 +22,4 @@
 - [ ] package it properly
 - [ ] performance pass
 - [ ] keyboard shortcuts
+- [ ] refactor into modules
