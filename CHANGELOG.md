@@ -79,3 +79,4 @@
 - refine main loop
 - polish state handling
 - rework docs wording
+- clean up main loop
