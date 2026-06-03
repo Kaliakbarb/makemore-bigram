@@ -80,3 +80,4 @@
 - polish state handling
 - rework docs wording
 - clean up main loop
+- simplify edge case handling
