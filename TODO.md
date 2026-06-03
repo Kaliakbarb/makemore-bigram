@@ -38,3 +38,4 @@
 - [ ] keyboard shortcuts
 - [ ] refactor into modules
 - [ ] better error messages
+- [ ] better error messages
