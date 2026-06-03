@@ -78,3 +78,4 @@
 - rework edge case handling
 - refine main loop
 - polish state handling
+- rework docs wording
