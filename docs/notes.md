@@ -21,3 +21,4 @@
 - tried an alternative layout, kept the simple one
 - found a nicer color palette, may switch later
 - sketched v2 of the interface on paper
+- thought about a plugin system - overkill for now
