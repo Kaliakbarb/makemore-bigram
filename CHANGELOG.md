@@ -46,3 +46,4 @@
 - refine help text
 - simplify config handling
 - rework input parsing
+- tighten help text
