@@ -45,3 +45,4 @@
 - improve error handling
 - refine help text
 - simplify config handling
+- rework input parsing
