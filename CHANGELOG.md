@@ -51,3 +51,4 @@
 - tweak input parsing
 - clean up help text
 - simplify help text
+- fix startup flow
