@@ -47,3 +47,4 @@
 - simplify config handling
 - rework input parsing
 - tighten help text
+- tweak edge case handling
