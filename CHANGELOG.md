@@ -48,3 +48,4 @@
 - rework input parsing
 - tighten help text
 - tweak edge case handling
+- tweak input parsing
