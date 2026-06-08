@@ -27,3 +27,4 @@
 - [ ] dark mode
 - [ ] publish a small demo
 - [ ] add tests
+- [ ] add examples to the readme
