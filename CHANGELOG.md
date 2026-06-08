@@ -53,3 +53,4 @@
 - simplify help text
 - fix startup flow
 - fix state handling
+- improve help text
