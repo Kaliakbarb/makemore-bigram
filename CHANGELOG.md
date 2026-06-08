@@ -55,3 +55,4 @@
 - fix state handling
 - improve help text
 - simplify edge case handling
+- improve main loop
