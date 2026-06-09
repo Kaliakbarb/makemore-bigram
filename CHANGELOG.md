@@ -59,3 +59,4 @@
 - tweak config handling
 - fix output formatting
 - fix main loop
+- tweak startup flow
