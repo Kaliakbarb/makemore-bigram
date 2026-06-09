@@ -57,3 +57,4 @@
 - simplify edge case handling
 - improve main loop
 - tweak config handling
+- fix output formatting
