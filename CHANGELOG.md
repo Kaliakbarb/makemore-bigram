@@ -58,3 +58,4 @@
 - improve main loop
 - tweak config handling
 - fix output formatting
+- fix main loop
