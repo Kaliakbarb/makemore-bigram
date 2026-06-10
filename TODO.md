@@ -39,3 +39,4 @@
 - [ ] refactor into modules
 - [ ] better error messages
 - [ ] better error messages
+- [ ] keyboard shortcuts
