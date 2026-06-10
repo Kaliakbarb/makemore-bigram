@@ -83,3 +83,4 @@
 - simplify edge case handling
 - adjust docs wording
 - clean up output formatting
+- polish naming
