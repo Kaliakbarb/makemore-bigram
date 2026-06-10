@@ -81,3 +81,4 @@
 - rework docs wording
 - clean up main loop
 - simplify edge case handling
+- adjust docs wording
