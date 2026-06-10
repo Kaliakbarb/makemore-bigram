@@ -84,3 +84,4 @@
 - adjust docs wording
 - clean up output formatting
 - polish naming
+- polish naming
