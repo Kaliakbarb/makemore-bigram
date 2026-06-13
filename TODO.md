@@ -29,3 +29,4 @@
 - [ ] add tests
 - [ ] add examples to the readme
 - [ ] add a CI workflow
+- [ ] handle unicode input
