@@ -62,3 +62,4 @@
 - tweak startup flow
 - tighten docs wording
 - tighten edge case handling
+- tighten startup flow
