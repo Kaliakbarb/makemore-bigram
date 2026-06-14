@@ -60,3 +60,4 @@
 - fix output formatting
 - fix main loop
 - tweak startup flow
+- tighten docs wording
