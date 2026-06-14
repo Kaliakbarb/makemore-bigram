@@ -61,3 +61,4 @@
 - fix main loop
 - tweak startup flow
 - tighten docs wording
+- tighten edge case handling
