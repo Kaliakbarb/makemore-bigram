@@ -63,3 +63,4 @@
 - tighten docs wording
 - tighten edge case handling
 - tighten startup flow
+- rework docs wording
