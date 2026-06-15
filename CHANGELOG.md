@@ -66,3 +66,4 @@
 - rework docs wording
 - fix edge case handling
 - clean up main loop
+- rework state handling
