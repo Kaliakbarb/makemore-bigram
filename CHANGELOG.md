@@ -64,3 +64,4 @@
 - tighten edge case handling
 - tighten startup flow
 - rework docs wording
+- fix edge case handling
