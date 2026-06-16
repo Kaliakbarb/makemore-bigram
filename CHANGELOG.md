@@ -67,3 +67,4 @@
 - fix edge case handling
 - clean up main loop
 - rework state handling
+- fix help text
