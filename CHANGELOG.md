@@ -70,3 +70,4 @@
 - fix help text
 - adjust startup flow
 - polish naming
+- clean up error handling
