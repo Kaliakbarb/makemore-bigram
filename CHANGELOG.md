@@ -69,3 +69,4 @@
 - rework state handling
 - fix help text
 - adjust startup flow
+- polish naming
