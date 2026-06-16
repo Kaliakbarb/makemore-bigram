@@ -68,3 +68,4 @@
 - clean up main loop
 - rework state handling
 - fix help text
+- adjust startup flow
