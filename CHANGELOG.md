@@ -71,3 +71,4 @@
 - adjust startup flow
 - polish naming
 - clean up error handling
+- polish main loop
