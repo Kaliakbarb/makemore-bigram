@@ -77,3 +77,4 @@
 - refine startup flow
 - rework edge case handling
 - refine main loop
+- polish state handling
