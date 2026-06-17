@@ -34,3 +34,4 @@
 - [ ] add colors to output
 - [ ] support a config file
 - [ ] package it properly
+- [ ] performance pass
