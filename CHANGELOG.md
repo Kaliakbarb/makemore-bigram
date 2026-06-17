@@ -74,3 +74,4 @@
 - polish main loop
 - improve output formatting
 - tweak error handling
+- refine startup flow
