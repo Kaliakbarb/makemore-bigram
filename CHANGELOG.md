@@ -76,3 +76,4 @@
 - tweak error handling
 - refine startup flow
 - rework edge case handling
+- refine main loop
