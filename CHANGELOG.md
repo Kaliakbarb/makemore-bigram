@@ -73,3 +73,4 @@
 - clean up error handling
 - polish main loop
 - improve output formatting
+- tweak error handling
