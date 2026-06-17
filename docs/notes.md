@@ -29,3 +29,4 @@
 - wrote down ideas from a blog post I read today
 - should test this on windows at some point
 - tried an alternative layout, kept the simple one
+- found a nicer color palette, may switch later
