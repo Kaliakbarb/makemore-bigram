@@ -37,3 +37,4 @@
 - [ ] performance pass
 - [ ] keyboard shortcuts
 - [ ] refactor into modules
+- [ ] better error messages
